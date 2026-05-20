@@ -14,21 +14,21 @@ The project integrates AI-driven decision-making with real-time drone control an
 
 ## ✨ Features
 
-✅ Autonomous Navigation
+ Autonomous Navigation
 
-✅ AI-based Obstacle Avoidance
+ AI-based Obstacle Avoidance
 
-✅ Mission Planning & Execution
+ Mission Planning & Execution
 
-✅ Real-time Telemetry Monitoring
+ Real-time Telemetry Monitoring
 
-✅ Streamlit Dashboard Visualization
+ Streamlit Dashboard Visualization
 
-✅ PostgreSQL Integration
+ PostgreSQL Integration
 
-✅ Modular Architecture
+ Modular Architecture
 
-✅ Scalable System Design
+ Scalable System Design
 
 ---
 
