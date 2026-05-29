@@ -1,10 +1,10 @@
-# 🚁 AI Drone Simulator
+#  AI Drone Simulator
 
 An AI-powered autonomous drone simulation platform built using **Microsoft AirSim**, **Python**, **PostgreSQL**, and **Streamlit**. The system enables intelligent drone navigation, obstacle avoidance, mission execution, and real-time telemetry monitoring in a safe virtual environment.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The **AI Drone Simulator** is designed to simulate and validate autonomous drone operations before real-world deployment. By integrating AI-driven decision-making with a realistic simulation environment, the platform provides a controlled space for testing navigation algorithms, mission planning strategies, and monitoring systems.
 
@@ -12,7 +12,7 @@ The project follows a modular architecture, making it scalable, maintainable, an
 
 ---
 
-## 🎯 Key Features
+##  Key Features
 
 ### Autonomous Navigation
 
@@ -51,7 +51,7 @@ The project follows a modular architecture, making it scalable, maintainable, an
 
 ---
 
-## 🏗 System Architecture
+##  System Architecture
 
 ```text
 Mission Request
@@ -80,7 +80,7 @@ Streamlit Dashboard
 
 ---
 
-## 🛠 Technology Stack
+##  Technology Stack
 
 | Category               | Technology                                        |
 | ---------------------- | ------------------------------------------------- |
@@ -93,7 +93,7 @@ Streamlit Dashboard
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 AI-Drone-Simulator/
@@ -113,7 +113,7 @@ AI-Drone-Simulator/
 
 ---
 
-## ⚙️ Installation Guide
+##  Installation Guide
 
 ### 1. Clone the Repository
 
@@ -151,7 +151,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🖥 Microsoft AirSim Setup
+##  Microsoft AirSim Setup
 
 ### Step 1: Download AirSim
 
@@ -192,7 +192,7 @@ streamlit run dashboard.py
 
 ---
 
-## 📊 Workflow
+##  Workflow
 
 ```text
 User Mission Request
@@ -218,7 +218,7 @@ Real-Time Dashboard Monitoring
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 * Computer Vision-based Object Detection
 * Reinforcement Learning Navigation Models
@@ -231,7 +231,7 @@ Real-Time Dashboard Monitoring
 
 ---
 
-## 📈 Potential Use Cases
+##  Potential Use Cases
 
 * Autonomous Drone Research
 * Flight Algorithm Testing
@@ -242,7 +242,7 @@ Real-Time Dashboard Monitoring
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Manish Gupta**
 
